@@ -7,7 +7,7 @@ Netlify StatusKit is a template to deploy your own Status pages on Netlify.
 Netlify StatusKit is released under the [MIT License](LICENSE).
 Please make sure you understand its [implications and guarantees](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit) [![Greenkeeper badge](https://badges.greenkeeper.io/flotahd/netlify-statuskit.svg)](https://greenkeeper.io/)
 
 ## Project Status
 
